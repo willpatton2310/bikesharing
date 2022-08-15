@@ -19,6 +19,6 @@ f) Peak hours run during the day in August so there is time for maintenance at n
 
 For future analysis, there should be continude refinement of subscribers vs. non-subscibers.  This model will work better if the operations are tweaked to maximize recurring subscriber revenues versus one-off or occasional users.
 
-Please find all Tableau visualizations here"
+Please find all Tableau visualizations here:
 
 [link to dashboard](https://public.tableau.com/app/profile/william.patton4887/viz/CitiBikeChallenge_16605221068490/Story1?publish=yes)
